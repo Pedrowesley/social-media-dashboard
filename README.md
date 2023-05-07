@@ -14,7 +14,7 @@ Main App
 
 ## Como Rodar
 
-1. Clone o repositório: `git clone https://github.com/seu-username/nome-do-repositorio.git`
+1. Clone o repositório: `git clone https://github.com/Pedrowesley/Social-Media-Dashboard.git`
 2. Abra o arquivo `index.html` no seu navegador de internet.
 3. Pronto! Agora você pode visualizar o projeto.
 
@@ -25,10 +25,6 @@ Main App
 3. Faça as mudanças necessárias e commit: `git commit -m "Explicação das mudanças"`
 4. Envie para o branch original: `git push origin minha-contribuicao`
 5. Crie o Pull Request.
-
-## Licença
-
-Esse projeto está licenciado sob a licença MIT. Veja o arquivo LICENSE para mais detalhes. 
 
 ## Autor
 
