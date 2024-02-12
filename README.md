@@ -1,31 +1,27 @@
-# Frontend Mentor - Social media dashboard with theme switcher
+# Frontend Mentor - Social Media Dashboard with Theme Switcher
 
-[Watch page developed](https://social-media-challenge-dash.netlify.app/)
+[View Live Page](https://social-media-challenge-dash.netlify.app/)
 
-A Social media dashboard developed on HTML, CSS and Javascript.
+This project is a social media dashboard built using HTML, CSS, and JavaScript. It serves as a great opportunity to enhance your grid layout skills and includes an interactive theme switcher for added functionality.
 
-## Description
-
-This challenge will be a perfect chance to practice your Grid skills. The color theme switcher also adds a nice additional test.
-
-Main App
+## Main Application
 :-------------------------:
-![](https://github.com/Pedrowesley/Social-Media-Dashboard/blob/main/design/desktop-preview.jpg "Main")
+![Main Application Screenshot](https://github.com/Pedrowesley/Social-Media-Dashboard/blob/main/design/desktop-preview.jpg "Main Application")
 
-## Como Rodar
+## How to Run Locally
 
-1. Clone o repositório: `git clone https://github.com/Pedrowesley/Social-Media-Dashboard.git`
-2. Abra o arquivo `index.html` no seu navegador de internet.
-3. Pronto! Agora você pode visualizar o projeto.
+1. Clone the repository: `git clone https://github.com/Pedrowesley/Social-Media-Dashboard.git`
+2. Open the `index.html` file in your web browser.
+3. Done! You can now view the project locally.
 
-## Como Contribuir
+## How to Contribute
 
-1. Faça o fork do projeto.
-2. Crie uma nova branch com a sua contribuição: `git checkout -b minha-contribuicao`
-3. Faça as mudanças necessárias e commit: `git commit -m "Explicação das mudanças"`
-4. Envie para o branch original: `git push origin minha-contribuicao`
-5. Crie o Pull Request.
+1. Fork the repository.
+2. Create a new branch for your contribution: `git checkout -b my-contribution`
+3. Make the necessary changes and commit: `git commit -m "Description of changes"`
+4. Push to the original branch: `git push origin my-contribution`
+5. Create a pull request.
 
-## Autor
+## Author
 
 [Pedro Wesley](https://github.com/Pedrowesley)
